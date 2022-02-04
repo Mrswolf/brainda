@@ -1,3 +1,5 @@
+# Brainda is now a part of the MetaBCI project and this repo is no longer in active development. Please move to [this repo](https://github.com/TBC-TJU/brainda) for more information.
+
 <!-- PROJECT LOGO -->
 [中文](README.zh-cn.md)
 <br />
